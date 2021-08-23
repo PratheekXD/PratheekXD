@@ -1,4 +1,4 @@
-- 👋 HELLO LET ME INTRODUCE MYSELF : I’m @PratheekXD.. ALL CALL ME AS PRATHEEK
+- 👋 HELLO LET ME INTRODUCE MYSELF : I’m Pratheek..
 - 👀 My Skills : Skills Are More With Me,But I Wont Reveal Because Its Better To Be As Noob 
 - 🌱 I’m Currently Learning : PYTHON
 - 💞️ I WANT TO WORK ALONE,NEVER BELIEVE ANYONE 👿
