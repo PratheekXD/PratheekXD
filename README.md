@@ -1,5 +1,5 @@
 ![Pratheek](https://telegra.ph/file/edde3a6ccf5f09dbb191f.jpg)
-# Hi there 👋, I'm 💜「 𝙋𝙍𝘼𝙏𝙃𝙀𝙀𝙆_𝙓𝘿 」💜 °•♡왕자♡•°
+# Hi there 👋, I'm 𝙋𝙍𝘼𝙏𝙃𝙀𝙀𝙆_𝙓𝘿 」🥀 자♡•°
 
  **Information:**
 - 👋 HELLO LET ME INTRODUCE MYSELF : I’m Pratheek..
