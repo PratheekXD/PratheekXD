@@ -1,7 +1,7 @@
 ### ʜᴏɪ ᴛʜᴇʀᴇ  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, 
 **I'm <** 𝙋𝙍𝘼𝙏𝙃𝙀𝙀𝙆_𝙓𝘿 **>🥀 자♡•°**
 
-![Pratheek](https://telegra.ph/file/edde3a6ccf5f09dbb191f.jpg)
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/Assets/Developer.gif" width="29px">
 
 <p align="center">
 </p>
