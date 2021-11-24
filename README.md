@@ -1,12 +1,13 @@
-![Pratheek](https://telegra.ph/file/edde3a6ccf5f09dbb191f.jpg)
-# Hi there 👋, I'm 𝙋𝙍𝘼𝙏𝙃𝙀𝙀𝙆_𝙓𝘿 」🥀 자♡•°
+### ʜᴏɪ ᴛʜᴇʀᴇ  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm 𝙋𝙍𝘼𝙏𝙃𝙀𝙀𝙆_𝙓𝘿 」🥀 자♡•°
 
- **Information:**
-- 👋 HELLO LET ME INTRODUCE MYSELF : I’m Pratheek..
-- 👀 My Skills : Nothing Sur
-- 🌱 I’m Currently Learning : PYTHON
-- 💞️ 𝙓𝘿 👿
-- 📫 How to reach me : ITS VERY SIMPLE JUST CLICK ON THIS LINK : https://t.me/aboutpratheek
+![Pratheek](https://telegra.ph/file/edde3a6ccf5f09dbb191f.jpg)
+
+<p align="center">
+</p>
+
+- ɪ'ᴍ ꜱᴛɪʟʟ ʟᴇᴀʀɴɪɴɢ ɢɪᴛ & ɢɪᴛʜᴜʙ
+- ʟᴏʙᴇ ᴘʏᴛʜᴏɴ
+- ᴍᴏꜱᴛ ᴏꜰ ᴍʏ ʀᴇᴘᴏꜱɪᴛᴏʀɪᴇꜱ ᴀʀᴇ ꜰᴏʀ ᴛᴇʟᴇɢʀᴀᴍ
 
 <b>GitHub Awards</b></summary><br/>
 
