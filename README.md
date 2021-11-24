@@ -1,4 +1,4 @@
-### ʜᴏɪ ᴛʜᴇʀᴇ  <img src="https://github.com/PratheekXD/PratheekXD/blob/d23cd9bacb47d90d99c9ecdb0bf7b7228a08e73d/Assets/Hi.gif" width="29px">, 
+### ʜᴏɪ ᴛʜᴇʀᴇ  <img src="https://github.com/PratheekXD/PratheekXD/blob/d23cd9bacb47d90d99c9ecdb0bf7b7228a08e73d/Assets/Hi.gif" width="29px">
 **I'm <** 𝙋𝙍𝘼𝙏𝙃𝙀𝙀𝙆_𝙓𝘿 **>🥀 자♡•°**
 
 <img src="https://github.com/PratheekXD/PratheekXD/blob/d23cd9bacb47d90d99c9ecdb0bf7b7228a08e73d/Assets/Developer.gif" width="329px">
