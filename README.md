@@ -28,10 +28,6 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=PratheekXD&color=blue&style=flat-square&label=Profile+Views)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
-</p>
-
 ### sᴛᴀᴛs
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=PratheekXD&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratheekXD&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true">
