@@ -71,6 +71,7 @@
 
 </details>
 
+### ʀᴇɢᴀʀᴅs
 <p align="center">
   <a href="https://github.com/PratheekXD" target="_blank">
     <!-- <img src="https://github.com/PratheekXD/PratheekXD/blob/main/Assets/Hello%20world.gif" width="450"> -->
@@ -79,6 +80,7 @@
   </a>
 </p>
 
+### ᴄᴏᴘʏʀɪɢʜᴛs
 <p align="center">
   <code>
   © 2022 - Made With ❣️ By Pratheek
