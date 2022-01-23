@@ -76,6 +76,14 @@
 </details>
 
 <p align="center">
+  <a href="https://github.com/PratheekXD" target="_blank">
+    <!-- <img src="https://github.com/PratheekXD/PratheekXD/blob/main/Assets/Hello%20world.gif" width="450"> -->
+    <!-- <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Thankyou For Visiting My Profile %Ok Bye👋🏻&width=2000&height=100" width="450"> -->
+    <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Thankyou For Visiting My Profile %Ok Bye👋🏻&width=700&height=100" width="700">
+  </a>
+</p>
+
+<p align="center">
   <code>
   © 2022 - Made With ❣️ By Pratheek
 </code>
