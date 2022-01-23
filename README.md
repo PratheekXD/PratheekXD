@@ -43,8 +43,12 @@
 <details>	
   <summary><b>🔥 Github Stats:</b></summary>
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=PratheekXD&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+</details>
 
+<details>	
+  <summary><b>🚀 Top Lang:</b></summary>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PratheekXD&layout=compact&theme=chartreuse-dark)](https://github.com/PratheekXD/PratheekXD)
+</details>
 </details>
 
 [![PratheekXD GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PratheekXD&&theme=xcode)](https://github.com/PratheekXD)
