@@ -80,7 +80,7 @@
   </a>
 </p>
 
-### ᴄᴏᴘʏʀɪɢʜᴛs
+### ᴄᴏᴘʏʀɪɢʜᴛ
 <p align="center">
   <code>
   © 2022 - Made With ❣️ By Pratheek
