@@ -33,8 +33,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=PratheekXD&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratheekXD&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true">
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PratheekXD&layout=compact)](https://github.com/PratheekXD/github-readme-stats)
 <!---
 PratheekXD/PratheekXD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
