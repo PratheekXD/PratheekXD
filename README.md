@@ -10,7 +10,7 @@
 - ɪ ʟɪᴋᴇ ᴛᴏ ʟᴇᴀʀɴ ɴᴇᴡ ᴛʜɪɴɢs
 - ᴍᴏꜱᴛ ᴏꜰ ᴍʏ ʀᴇᴘᴏꜱɪᴛᴏʀɪᴇꜱ ᴀʀᴇ ꜰᴏʀ ᴛᴇʟᴇɢʀᴀᴍ
 
-[![Website](https://img.shields.io/website?label=PratheekXD.me&style=for-the-badge&url=https%3A%2F%2FPratheekxd.me)](https://Pratheekxd.me)
+### [![Website](https://img.shields.io/website?label=PratheekXD.me&style=for-the-badge&url=https%3A%2F%2FPratheekxd.me)](https://Pratheekxd.me)
 
 ### <b>ɢɪᴛʜᴜʙ ᴀᴡᴀʀᴅs</b></summary><br/>
 
