@@ -29,6 +29,13 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=PratheekXD&color=blue&style=flat-square&label=Profile+Views)
 
+### 🎧 ɴᴏᴡ ᴘʟᴀʏɪɴɢ
+
+&nbsp; <br> ![Spotify recently played](https://spotify-github-profile.vercel.app/api/view.svg?uid=l5ffa2lqtxn7tk24jwwr29ux6&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=l5ffa2lqtxn7tk24jwwr29ux6&background_color=0d1117&border_color=ffffff)
+
+  </td>
+  <td width="50%">
+
 ### sᴛᴀᴛs
 
 <details>	
