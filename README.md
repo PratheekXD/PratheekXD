@@ -41,6 +41,11 @@
 </details>
 
 <details>	
+  <summary><b>🏆 Github Awards:</b></summary>
+  <img src = "https://github-profile-trophy.vercel.app/?username=PratheekXD">
+</details>
+
+<details>	
   <summary><b>🔥 Github Stats:</b></summary>
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=PratheekXD&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/PratheekXD/PratheekXD)
