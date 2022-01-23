@@ -1,13 +1,8 @@
 ### ʜᴇʏ ᴛʜᴇʀᴇ  <img src="https://github.com/PratheekXD/PratheekXD/blob/d23cd9bacb47d90d99c9ecdb0bf7b7228a08e73d/Assets/Hi.gif" width="29px">
 **𝗜'𝗠 <** 𝗣𝗥𝗔𝗧𝗛𝗘𝗘𝗞_𝗫𝗗 **>🥀 자♡•°**
 
+<p align="center"><a href="https://t.me/Pratheek06"><img src="https://telegra.ph/file/34d8d8d711caf9f6f7537.mp4"></a></p>
 <p align="center">
-  <a href="https://github.com/PratheekXD" target="_blank">
-    <!-- <img src="https://github.com/PratheekXD/PratheekXD/blob/main/Assets/Hello%20world.gif" width="450"> -->
-    <!-- <img src="https://svg-banners.vercel.app/api?type=glitch&text1=print(%22Hey%20There!%20Welcome To%20Pratheek's Profile.%22)&width=2000&height=100" width="450"> -->
-    <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=print(%22Hey%20There!%20Welcome To%20Pratheek's Profile.%22)%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB&width=700&height=100" width="700">
-  </a>
-</p>
 
 <p align="center">
 </p>
