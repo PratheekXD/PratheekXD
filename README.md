@@ -42,7 +42,7 @@
 
 <details>	
   <summary><b>🏆 Github Awards:</b></summary>
-  <img src = "https://github-profile-trophy.vercel.app/?username=PratheekXD">
+  <img src = "https://github-profile-trophy.vercel.app/?username=PratheekXD&theme=black-ice&hide_border=true&stroke=0000&background=black">
 </details>
 
 <details>	
