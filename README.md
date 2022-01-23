@@ -32,6 +32,7 @@
 
 ### ᴘʀᴏғɪʟᴇ ᴠɪᴇᴡs
 </p>
+
 ![Profile views](https://komarev.com/ghpvc/?username=PratheekXD&color=blue&style=flat-square&label=Profile+Views)
 
 <!---
