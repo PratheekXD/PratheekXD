@@ -25,15 +25,15 @@
 [![ɪɴsᴛᴀɢʀᴀᴍ](https://img.shields.io/badge/instagram-black.svg?style=for-the-badge&logo=instagram)](https://t.me/pratheek06) 
 <br>
 
-### sᴛᴀᴛs
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=PratheekXD&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratheekXD&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true">
-
 
 ### ᴘʀᴏғɪʟᴇ ᴠɪᴇᴡs
 </p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=PratheekXD&color=blue&style=flat-square&label=Profile+Views)
+
+### sᴛᴀᴛs
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=PratheekXD&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratheekXD&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true">
 
 <!---
 PratheekXD/PratheekXD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
