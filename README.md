@@ -1,8 +1,9 @@
 ### ʜᴇʏ ᴛʜᴇʀᴇ  <img src="https://github.com/PratheekXD/PratheekXD/blob/d23cd9bacb47d90d99c9ecdb0bf7b7228a08e73d/Assets/Hi.gif" width="29px">
 **𝗜'𝗠 <** 𝗣𝗥𝗔𝗧𝗛𝗘𝗘𝗞_𝗫𝗗 **>🥀 자♡•°**
 
-<p align="center"><a href="https://t.me/Pratheek06"><img src="https://telegra.ph/file/34d8d8d711caf9f6f7537.mp4"></a></p>
-<p align="center">
+<div align="center">
+<img alt="GIF" align="center" src="https://github.com/PratheekXD/PratheekXD/blob/9deec91d7779d4a617a9a07e7dd1999cde2217c4/Assets/20220123_2057531.gif">
+</div>
 
 <p align="center">
 </p>
