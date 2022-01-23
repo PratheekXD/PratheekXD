@@ -12,7 +12,7 @@
 
 ### <b>ɢɪᴛʜᴜʙ ᴀᴡᴀʀᴅs</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=PratheekXD)
+[![trophy](https://github-profile-trophy.vercel.app/?username=PratheekXD&theme=monokai)](https://github.com/PratheekXD/PratheekXD)
 
 </details
 
