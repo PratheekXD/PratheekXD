@@ -10,9 +10,9 @@
 - ɪ ʟɪᴋᴇ ᴛᴏ ʟᴇᴀʀɴ ɴᴇᴡ ᴛʜɪɴɢs
 - ᴍᴏꜱᴛ ᴏꜰ ᴍʏ ʀᴇᴘᴏꜱɪᴛᴏʀɪᴇꜱ ᴀʀᴇ ꜰᴏʀ ᴛᴇʟᴇɢʀᴀᴍ
 
-<b>GitHub Awards</b></summary><br/>
+### <b>ɢɪᴛʜᴜʙ ᴀᴡᴀʀᴅs</b></summary><br/>
 
-![ɢɪᴛʜᴜʙ ᴛʀᴏᴘʜʏ](https://github-profile-trophy.vercel.app/?username=PratheekXD)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=PratheekXD)
 
 </details
 
