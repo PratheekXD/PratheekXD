@@ -12,7 +12,7 @@
 
 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=PratheekXD)
+![ɢɪᴛʜᴜʙ ᴛʀᴏᴘʜʏ](https://github-profile-trophy.vercel.app/?username=PratheekXD)
 
 </details
 
