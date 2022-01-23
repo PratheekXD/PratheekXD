@@ -18,12 +18,6 @@
 
 ### [![Website](https://img.shields.io/website?label=PratheekXD.me&style=for-the-badge&url=https%3A%2F%2FPratheekxd.me)](https://Pratheekxd.me)
 
-### <b>ɢɪᴛʜᴜʙ ᴀᴡᴀʀᴅs</b></summary><br/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=PratheekXD&theme=chartreuse-dark)](https://github.com/PratheekXD/PratheekXD)
-
-</details
-
 ### **ᴄᴏɴᴛᴀᴄᴛ ᴡɪᴛʜ ᴍᴇ**
 [![ᴛᴇʟᴇɢʀᴀᴍ](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/pratheek06) 
 <br>
