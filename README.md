@@ -33,9 +33,16 @@
 
 ### sᴛᴀᴛs
 
+<p align="center">
+    <a href="https://github.com/PratheekXD/PratheekXD">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Pratheek's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PratheekXD&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=PratheekXD&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PratheekXD&layout=compact&theme=chartreuse-dark)](https://github.com/PratheekXD/PratheekXD)
+
 <!---
 PratheekXD/PratheekXD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
