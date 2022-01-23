@@ -49,8 +49,9 @@
 
 <details>	
   <summary><b>🚀 Top Lang:</b></summary>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PratheekXD&layout=compact&theme=chartreuse-dark)](https://github.com/PratheekXD/PratheekXD)
-</details>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PratheekXD&layout=compact&theme=chartreuse-dark)](https://github.com/PratheekXD/PratheekXD)
+
 </details>
 
 [![PratheekXD GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PratheekXD&&theme=xcode)](https://github.com/PratheekXD)
