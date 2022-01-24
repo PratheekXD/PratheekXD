@@ -25,7 +25,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=PratheekXD&color=blue&style=flat-square&label=Profile+Views)
 
-![Repo views](https://img.shields.io/github/Repo-Views/PratheekXD/PratheekXD.svg)
+![Repo views](https://img.shields.io/github/RepoViews/PratheekXD/PratheekXD.svg)
 
 <details>	
   <summary><b>🎧 ɴᴏᴡ ᴘʟᴀʏɪɴɢ:</b></summary>
