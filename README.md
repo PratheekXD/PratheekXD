@@ -19,6 +19,8 @@
 <br>
 [![ɪɴsᴛᴀɢʀᴀᴍ](https://img.shields.io/badge/instagram-black.svg?style=for-the-badge&logo=instagram)](https://t.me/pratheek06) 
 <br>
+[![ʏᴏᴜᴛᴜʙᴇ](https://img.shields.io/badge/youtube-red.svg?style=for-the-badge&logo=youtube)](https://m.youtube.com/channel/UCAEUvFcdMmq8TDicEMM7wfA) 
+<br
 
 ### ᴘʀᴏғɪʟᴇ ᴠɪᴇᴡs
 </p>
