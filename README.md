@@ -67,7 +67,7 @@
 <details>	
   <summary><b>✨ GitHub Activity Graph:</b></summary>
 
-[![PratheekXD GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PratheekXD&&theme=xcode)](https://github.com/PratheekXD)
+[![PratheekXD GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PratheekXD&theme=xcode)](https://github.com/PratheekXD)
 
 </details>
 
