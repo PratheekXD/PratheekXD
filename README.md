@@ -61,6 +61,6 @@
 
 <p align="center">
   <code>
-  © 2022 - Made With ❣️ By Pratheek
+© 2022 - Made With ❣️ By Pratheek
 </code>
 </p>
