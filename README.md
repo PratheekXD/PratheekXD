@@ -14,7 +14,7 @@
 
 ### [![Website](https://img.shields.io/website?label=PratheekXD.me&style=for-the-badge&url=https%3A%2F%2FPratheekxd.me)](https://Pratheekxd.me)
 
-### **ᴄᴏɴᴛᴀᴄᴛ ᴡɪᴛʜ ᴍᴇ**
+### **Contact with me**
 [![ᴛᴇʟᴇɢʀᴀᴍ](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/pratheek06) 
 <br>
 [![ɪɴsᴛᴀɢʀᴀᴍ](https://img.shields.io/badge/instagram-black.svg?style=for-the-badge&logo=instagram)](https://t.me/pratheek06) 
@@ -22,7 +22,7 @@
 [![ʏᴏᴜᴛᴜʙᴇ](https://img.shields.io/badge/youtube-red.svg?style=for-the-badge&logo=youtube)](https://m.youtube.com/channel/UCAEUvFcdMmq8TDicEMM7wfA) 
 <br>
 
-### ᴘʀᴏғɪʟᴇ ᴠɪᴇᴡs
+### Profile views
 </p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=PratheekXD&color=blue&style=flat-square&label=Profile+Views)
