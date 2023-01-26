@@ -1,4 +1,4 @@
-### ʜᴇʏ ᴛʜᴇʀᴇ  
+### Hey there...  
 **𝗜'𝗠 <** 𝗣𝗥𝗔𝗧𝗛𝗘𝗘𝗞_𝗫𝗗 **>🥀 자♡•°**
 
 <div align="center">
@@ -8,13 +8,13 @@
 <p align="center">
 </p>
 
-- ɪ'ᴍ ʟᴇᴀʀɴɪɴɢ ɢɪᴛ & ɢɪᴛʜᴜʙ
-- ɪ ʟɪᴋᴇ ᴛᴏ ʟᴇᴀʀɴ ɴᴇᴡ ᴛʜɪɴɢs
-- ᴍᴏꜱᴛ ᴏꜰ ᴍʏ ʀᴇᴘᴏꜱɪᴛᴏʀɪᴇꜱ ᴀʀᴇ ꜰᴏʀ ᴛᴇʟᴇɢʀᴀᴍ
+- I'm Learning Git & Github
+- I Like To Learn New Things
+- Most Of My Repositories Are For Telegram
 
 ### [![Website](https://img.shields.io/website?label=PratheekXD.me&style=for-the-badge&url=https%3A%2F%2FPratheekxd.me)](https://Pratheekxd.me)
 
-### **Contact with me**
+### Contact
 [![ᴛᴇʟᴇɢʀᴀᴍ](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/pratheek06) 
 <br>
 [![ɪɴsᴛᴀɢʀᴀᴍ](https://img.shields.io/badge/instagram-black.svg?style=for-the-badge&logo=instagram)](https://t.me/pratheek06) 
