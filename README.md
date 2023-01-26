@@ -61,29 +61,6 @@
 
 </details>
 
-<details>	
-  <summary><b>🚀 Top Language:</b></summary>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PratheekXD&layout=compact&theme=chartreuse-dark)](https://github.com/PratheekXD/PratheekXD)
-
-</details>
-
-<details>	
-  <summary><b>✨ GitHub Activity Graph:</b></summary>
-
-[![PratheekXD GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PratheekXD&theme=chartreuse-dark)](https://github.com/PratheekXD)
-
-</details>
-
-### ʀᴇɢᴀʀᴅs
-<p align="center">
-  <a href="https://github.com/PratheekXD" target="_blank">
-    <!-- <img src="https://github.com/PratheekXD/PratheekXD/blob/main/Assets/Hello%20world.gif" width="450"> -->
-    <!-- <img src="https://svg-banners.vercel.app/api?type=glitch&text1=𝑻𝒉𝒂𝒏𝒌𝒚𝒐𝒖 𝑭𝒐𝒓 𝑽𝒊𝒔𝒊𝒕𝒊𝒏𝒈 𝑴𝒚 𝑷𝒓𝒐𝒇𝒊𝒍𝒆 ❣️🥀&width=2000&height=100" width="450"> -->
-    <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=𝑻𝒉𝒂𝒏𝒌𝒚𝒐𝒖 𝑭𝒐𝒓 𝑽𝒊𝒔𝒊𝒕𝒊𝒏𝒈 𝑴𝒚 𝑷𝒓𝒐𝒇𝒊𝒍𝒆 ❣️🥀&width=700&height=100" width="700">
-  </a>
-</p>
-
 <p align="center">
   <code>
   © 2022 - Made With ❣️ By Pratheek
