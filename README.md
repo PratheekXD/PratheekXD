@@ -1,5 +1,5 @@
-### Hey there...  
-**𝗜'𝗠 <** 𝗣𝗥𝗔𝗧𝗛𝗘𝗘𝗞_𝗫𝗗 **>🥀 자♡•°**
+### Hello There 
+**𝗜'𝗠 <** 𝗣𝗥𝗔𝗧𝗛𝗘𝗘𝗞 **>🥀 자♡•°**
 
 <div align="center">
 <img alt="GIF" align="center" src="https://github.com/PratheekXD/PratheekXD/blob/9deec91d7779d4a617a9a07e7dd1999cde2217c4/Assets/20220123_2057531.gif">
