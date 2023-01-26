@@ -30,7 +30,7 @@
 ![Repo views](https://img.shields.io/github/watchers/PratheekXD/PratheekXD.svg)
 
 <details>	
-  <summary><b>🎧 ɴᴏᴡ ᴘʟᴀʏɪɴɢ:</b></summary>
+  <summary><b>🎧 Now Playing:</b></summary>
 
 &nbsp; <br> ![Spotify recently played](https://spotify-github-profile.vercel.app/api/view.svg?uid=l5ffa2lqtxn7tk24jwwr29ux6&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=l5ffa2lqtxn7tk24jwwr29ux6&background_color=0d1117&border_color=ffffff)
 
@@ -38,7 +38,7 @@
   <td width="50%">
 </details>
 
-### sᴛᴀᴛs
+### Stats
 
 <details>	
   <summary><b>⚡ Github Streaks:</b></summary>
